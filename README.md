@@ -1,5 +1,5 @@
 # eth-bank
-Solidity testing project ETHBank. ***Please use this project at your own risk***.
+Solidity test project `ETHBank`. ***Please use this project at your own risk***.
 
 
 # Installation
